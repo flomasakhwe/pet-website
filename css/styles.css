@@ -1,0 +1,26 @@
+h1  {
+  color: indigo;
+  text-align: center;
+}
+h2  {
+  color: navy;
+  text-align: center;
+  text-transform: uppercase;
+}
+p {
+  font-family: sans-serif;
+  color: white;
+}
+ol  {
+  letter-spacing: normal;
+  line-height: 30px;
+  color: white;
+}
+ul  {
+  line-height: 30px;
+  color: white;
+}
+body  {
+  background-color: crimson;
+
+}
